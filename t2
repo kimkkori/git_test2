@@ -1,0 +1,17 @@
+[33mcommit 317b6d8b046c31b5dcd17ffc134cdebc0d66d6f1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kim, Taeil <gkti100@gmail.com>
+Date:   Fri Sep 13 11:49:16 2024 +0900
+
+    Hello 클래스에 message 멤버 변수 추가
+
+[33mcommit 6f9b622c40a9d612cc832a10391a96ee30683809[m
+Author: Kim, Taeil <gkti100@gmail.com>
+Date:   Thu Sep 12 09:44:15 2024 +0900
+
+    출력 메시지 수정
+
+[33mcommit e2a2111d7a38f6664ee5f0f6ac92295053ae2d85[m
+Author: Kim, Taeil <gkti100@gmail.com>
+Date:   Thu Sep 12 09:41:17 2024 +0900
+
+    최초 커밋
